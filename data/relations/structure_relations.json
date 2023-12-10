@@ -2940,6 +2940,11 @@
         "differential entropy"
     ],
     [
+        "deep learning",
+        "co_presence",
+        "cognitive science"
+    ],
+    [
         "recursive nets",
         "co_presence",
         "information about the past"
@@ -6235,6 +6240,11 @@
         "spurious modes"
     ],
     [
+        "distributed representation",
+        "co_presence",
+        "cognitive science"
+    ],
+    [
         "MXNet",
         "co_presence",
         "object recognition"
@@ -9380,6 +9390,11 @@
         "concepts"
     ],
     [
+        "deep learning",
+        "co_presence",
+        "neuroscience"
+    ],
+    [
         "SMAC",
         "co_presence",
         "debugging strategies"
@@ -9388,6 +9403,11 @@
         "logistic regression",
         "co_presence",
         "weights"
+    ],
+    [
+        "computational neuroscience",
+        "co_presence",
+        "cognitive science"
     ],
     [
         "multi-digit numbers",
@@ -9983,6 +10003,11 @@
         "saddle point",
         "co_presence",
         "global minima"
+    ],
+    [
+        "greedy layer-wise pre-training",
+        "co_presence",
+        "artificial neural networks"
     ],
     [
         "inference",
@@ -12305,6 +12330,11 @@
         "universal learning algorithm"
     ],
     [
+        "neurons",
+        "co_presence",
+        "computational neuroscience"
+    ],
+    [
         "transpose of a matrix product",
         "co_presence",
         "associative"
@@ -12548,6 +12578,11 @@
         "crop region",
         "co_presence",
         "hyperparameters"
+    ],
+    [
+        "distributed representation",
+        "co_presence",
+        "neuroscience"
     ],
     [
         "regularizing effect",
@@ -13468,6 +13503,11 @@
         "Markov chain",
         "co_presence",
         "Markov chain steps"
+    ],
+    [
+        "cognitive science",
+        "co_presence",
+        "neurons"
     ],
     [
         "scaling factor",
@@ -17440,6 +17480,11 @@
         "hidden units"
     ],
     [
+        "back-propagation algorithm",
+        "co_presence",
+        "Kernel machines"
+    ],
+    [
         "scalar",
         "co_presence",
         "order of operations"
@@ -18898,6 +18943,11 @@
         "linear factor models",
         "co_presence",
         "linear-sigmoid autoencoder"
+    ],
+    [
+        "commercial applications",
+        "co_presence",
+        "artificial neural networks"
     ],
     [
         "momentum algorithm",
@@ -26765,6 +26815,11 @@
         "subset of variables"
     ],
     [
+        "vision system",
+        "co_presence",
+        "cognitive science"
+    ],
+    [
         "generative models",
         "co_presence",
         "softmax"
@@ -27263,6 +27318,11 @@
         "overfit",
         "co_presence",
         "depth of network"
+    ],
+    [
+        "connectionism",
+        "co_presence",
+        "cognitive science"
     ],
     [
         "Structured output",
@@ -29730,6 +29790,11 @@
         "statistical efficiency"
     ],
     [
+        "deep belief network",
+        "co_presence",
+        "unsupervised learning techniques"
+    ],
+    [
         "downhill",
         "co_presence",
         "lower power"
@@ -29828,6 +29893,11 @@
         "inference",
         "co_presence",
         "procedure"
+    ],
+    [
+        "cognitive science",
+        "co_presence",
+        "computational neuroscience"
     ],
     [
         "statistical efficiency",
@@ -30735,6 +30805,11 @@
         "convolutional feature map"
     ],
     [
+        "deep learning",
+        "co_presence",
+        "greedy layer-wise pre-training"
+    ],
+    [
         "cost function",
         "co_presence",
         "deep learning"
@@ -31098,6 +31173,11 @@
         "intermediate features",
         "co_presence",
         "representation learning"
+    ],
+    [
+        "unsupervised learning techniques",
+        "co_presence",
+        "commercial applications"
     ],
     [
         "inefficient",
@@ -33438,6 +33518,11 @@
         "element-wise clipping",
         "co_presence",
         "hidden units"
+    ],
+    [
+        "supervised learning algorithms",
+        "co_presence",
+        "deep belief network"
     ],
     [
         "components",
@@ -36920,6 +37005,11 @@
         "parallelized training"
     ],
     [
+        "neural networks research",
+        "co_presence",
+        "deep neural networks"
+    ],
+    [
         "exploding values",
         "co_presence",
         "stochastic gradient descent"
@@ -37583,6 +37673,11 @@
         "hidden layer vector",
         "co_presence",
         "internal recurrence"
+    ],
+    [
+        "graphical models",
+        "co_presence",
+        "deep networks"
     ],
     [
         "common subexpressions",
@@ -38368,6 +38463,11 @@
         "infected",
         "co_presence",
         "integral"
+    ],
+    [
+        "benchmark datasets",
+        "co_presence",
+        "unsupervised learning techniques"
     ],
     [
         "pharmaceutical companies",
@@ -44520,6 +44620,11 @@
         "machine learning algorithms"
     ],
     [
+        "neural networks research",
+        "co_presence",
+        "deep networks"
+    ],
+    [
         "fantasy particles",
         "co_presence",
         "hallucinations"
@@ -47098,6 +47203,11 @@
         "activation functions",
         "co_presence",
         "log function"
+    ],
+    [
+        "deep belief network",
+        "co_presence",
+        "benchmark datasets"
     ],
     [
         "computational systems",
@@ -53950,6 +54060,11 @@
         "efficient approximation"
     ],
     [
+        "computational neuroscience",
+        "co_presence",
+        "neuroscience"
+    ],
+    [
         "robot",
         "co_presence",
         "human heads"
@@ -56908,6 +57023,11 @@
         "visible variables",
         "co_presence",
         "DBNs"
+    ],
+    [
+        "deep networks",
+        "co_presence",
+        "back-propagation algorithm"
     ],
     [
         "optimization",
@@ -61803,6 +61923,11 @@
         "exploration",
         "co_presence",
         "words"
+    ],
+    [
+        "cognitive science",
+        "co_presence",
+        "deep learning"
     ],
     [
         "maximum likelihood framework",
@@ -67185,6 +67310,11 @@
         "Markov chain methods"
     ],
     [
+        "connectionism",
+        "co_presence",
+        "neuroscience"
+    ],
+    [
         "estimation process",
         "co_presence",
         "risk"
@@ -71495,6 +71625,11 @@
         "machine learning"
     ],
     [
+        "vision system",
+        "co_presence",
+        "neuroscience"
+    ],
+    [
         "minibatch",
         "co_presence",
         "estimate of the gradient"
@@ -72405,6 +72540,11 @@
         "symmetric connections"
     ],
     [
+        "deep neural networks",
+        "co_presence",
+        "back-propagation algorithm"
+    ],
+    [
         "explosion",
         "co_presence",
         "complex-valued eigenvalues"
@@ -73285,6 +73425,11 @@
         "nearest neighbor algorithm"
     ],
     [
+        "unsupervised learning techniques",
+        "co_presence",
+        "artificial neural networks"
+    ],
+    [
         "discriminator network",
         "co_presence",
         "Gaussian distribution"
@@ -73718,6 +73863,11 @@
         "decoding",
         "co_presence",
         "distributed representation"
+    ],
+    [
+        "supervised learning algorithms",
+        "co_presence",
+        "deep learning"
     ],
     [
         "recursive nets",
@@ -79828,6 +79978,11 @@
         "linear algebra notation",
         "co_presence",
         "connection strength"
+    ],
+    [
+        "Kernel machines",
+        "co_presence",
+        "graphical models"
     ],
     [
         "empirically",
@@ -90280,6 +90435,11 @@
         "electrical signals"
     ],
     [
+        "deep learning",
+        "co_presence",
+        "unsupervised learning techniques"
+    ],
+    [
         "factors",
         "co_presence",
         "active area of research"
@@ -97555,6 +97715,11 @@
         "hidden units"
     ],
     [
+        "artificial neural networks",
+        "co_presence",
+        "deep belief network"
+    ],
+    [
         "PCA",
         "co_presence",
         "black pixels"
@@ -100895,6 +101060,11 @@
         "unsupervised learner"
     ],
     [
+        "cognitive science",
+        "co_presence",
+        "distributed representation"
+    ],
+    [
         "orientation",
         "co_presence",
         "classifier layer"
@@ -100978,6 +101148,11 @@
         "parents",
         "co_presence",
         "finishing time"
+    ],
+    [
+        "commercial applications",
+        "co_presence",
+        "greedy layer-wise pre-training"
     ],
     [
         "hyperparameters",
@@ -101670,6 +101845,11 @@
         "precision matrix"
     ],
     [
+        "deep networks",
+        "co_presence",
+        "neural networks research"
+    ],
+    [
         "extent",
         "co_presence",
         "mixing speed"
@@ -102158,6 +102338,11 @@
         "long-term dependencies",
         "co_presence",
         "gated recurrent unit"
+    ],
+    [
+        "cognitive science",
+        "co_presence",
+        "connectionism"
     ],
     [
         "sum of squared errors",
@@ -107240,6 +107425,11 @@
         "logistic regression"
     ],
     [
+        "deep learning",
+        "co_presence",
+        "benchmark datasets"
+    ],
+    [
         "decoding",
         "co_presence",
         "objective function"
@@ -109840,6 +110030,11 @@
         "pooling regions"
     ],
     [
+        "neuroscience",
+        "co_presence",
+        "connectionism"
+    ],
+    [
         "spatial location",
         "co_presence",
         "constraint"
@@ -110158,6 +110353,11 @@
         "specific concept",
         "co_presence",
         "visual system"
+    ],
+    [
+        "supervised learning algorithms",
+        "co_presence",
+        "commercial applications"
     ],
     [
         "Density estimation",
@@ -127225,6 +127425,11 @@
         "online learning"
     ],
     [
+        "neuroscience",
+        "co_presence",
+        "neurons"
+    ],
+    [
         "the noise model",
         "co_presence",
         "beliefs"
@@ -127473,6 +127678,11 @@
         "iterative",
         "co_presence",
         "parameters"
+    ],
+    [
+        "deep belief network",
+        "co_presence",
+        "supervised learning algorithms"
     ],
     [
         "early stopping procedure",
@@ -131538,6 +131748,11 @@
         "DCGAN",
         "co_presence",
         "maximum likelihood learning"
+    ],
+    [
+        "neural networks research",
+        "co_presence",
+        "graphical models"
     ],
     [
         "test set log-likelihood",
@@ -135655,6 +135870,11 @@
         "traffic sign classification"
     ],
     [
+        "benchmark datasets",
+        "co_presence",
+        "supervised learning algorithms"
+    ],
+    [
         "maxima",
         "co_presence",
         "exploding gradients"
@@ -136730,6 +136950,11 @@
         "model size"
     ],
     [
+        "artificial neural networks",
+        "co_presence",
+        "greedy layer-wise pre-training"
+    ],
+    [
         "stopping criterion",
         "co_presence",
         "Nesterov momentum algorithm"
@@ -137188,6 +137413,11 @@
         "accuracy",
         "co_presence",
         "disease"
+    ],
+    [
+        "deep belief network",
+        "co_presence",
+        "deep learning"
     ],
     [
         "Cram\u00e9r-Rao bound",
@@ -143705,6 +143935,11 @@
         "unlabeled sets"
     ],
     [
+        "neuroscience",
+        "co_presence",
+        "computational neuroscience"
+    ],
+    [
         "Greedy algorithms",
         "co_presence",
         "fine-tuning stage"
@@ -143973,6 +144208,11 @@
         "maximize",
         "co_presence",
         "procedure"
+    ],
+    [
+        "benchmark datasets",
+        "co_presence",
+        "deep belief network"
     ],
     [
         "expectation",
@@ -145838,6 +146078,11 @@
         "time scale of integration",
         "co_presence",
         "hidden layer vector"
+    ],
+    [
+        "benchmark datasets",
+        "co_presence",
+        "deep learning"
     ],
     [
         "Early back-propagation network",
@@ -151620,6 +151865,11 @@
         "Gaussian distribution"
     ],
     [
+        "greedy layer-wise pre-training",
+        "co_presence",
+        "unsupervised learning techniques"
+    ],
+    [
         "point estimator",
         "co_presence",
         "good estimator"
@@ -152250,6 +152500,11 @@
         "optimizing W"
     ],
     [
+        "supervised learning algorithms",
+        "co_presence",
+        "artificial neural networks"
+    ],
+    [
         "Markov chain",
         "co_presence",
         "high entropy"
@@ -152538,6 +152793,11 @@
         "immorality",
         "co_presence",
         "deep learning"
+    ],
+    [
+        "neurons",
+        "co_presence",
+        "vision system"
     ],
     [
         "energy function",
@@ -155495,6 +155755,11 @@
         "hidden units"
     ],
     [
+        "unsupervised learning techniques",
+        "co_presence",
+        "greedy layer-wise pre-training"
+    ],
+    [
         "non-convex",
         "co_presence",
         "model family"
@@ -155778,6 +156043,11 @@
         "probability distribution",
         "co_presence",
         "normal density"
+    ],
+    [
+        "deep neural networks",
+        "co_presence",
+        "neural networks research"
     ],
     [
         "sum",
@@ -168010,6 +168280,11 @@
         "dynamic Bayesian networks"
     ],
     [
+        "Kernel machines",
+        "co_presence",
+        "back-propagation algorithm"
+    ],
+    [
         "statistical reasons",
         "co_presence",
         "prior beliefs"
@@ -168990,6 +169265,11 @@
         "multi-task learning architecture"
     ],
     [
+        "greedy layer-wise pre-training",
+        "co_presence",
+        "benchmark datasets"
+    ],
+    [
         "local minimum",
         "co_presence",
         "eigenvectors"
@@ -169533,6 +169813,11 @@
         "desired distribution",
         "co_presence",
         "draw samples"
+    ],
+    [
+        "graphical models",
+        "co_presence",
+        "Kernel machines"
     ],
     [
         "scaling factor",
@@ -170448,6 +170733,11 @@
         "classification models",
         "co_presence",
         "variational lower bound"
+    ],
+    [
+        "cognitive science",
+        "co_presence",
+        "vision system"
     ],
     [
         "scope",
@@ -174385,6 +174675,11 @@
         "convolutional network"
     ],
     [
+        "deep belief network",
+        "co_presence",
+        "commercial applications"
+    ],
+    [
         "orthogonal",
         "co_presence",
         "eigenvalues"
@@ -175720,6 +176015,11 @@
         "automated algorithms"
     ],
     [
+        "neuroscience",
+        "co_presence",
+        "deep learning"
+    ],
+    [
         "random values",
         "co_presence",
         "model parameters"
@@ -176025,6 +176325,11 @@
         "Neocognitron"
     ],
     [
+        "back-propagation algorithm",
+        "co_presence",
+        "neural networks research"
+    ],
+    [
         "training algorithm",
         "co_presence",
         "approximate optimization"
@@ -176228,6 +176533,11 @@
         "output layer",
         "co_presence",
         "linear units"
+    ],
+    [
+        "neural networks research",
+        "co_presence",
+        "Kernel machines"
     ],
     [
         "Pa,b,c",
@@ -177200,6 +177510,11 @@
         "regression problem"
     ],
     [
+        "computational neuroscience",
+        "co_presence",
+        "connectionism"
+    ],
+    [
         "eigenvectors",
         "co_presence",
         "gradient descent"
@@ -177468,6 +177783,11 @@
         "hierarchy",
         "co_presence",
         "sum/products"
+    ],
+    [
+        "neurons",
+        "co_presence",
+        "cognitive science"
     ],
     [
         "hard targets",
@@ -184825,6 +185145,11 @@
         "recordings over time"
     ],
     [
+        "neurons",
+        "co_presence",
+        "neuroscience"
+    ],
+    [
         "cross-entropy family",
         "co_presence",
         "sigmoid hidden units"
@@ -188208,6 +188533,11 @@
         "shared attributes",
         "co_presence",
         "parameters"
+    ],
+    [
+        "deep learning",
+        "co_presence",
+        "supervised learning algorithms"
     ],
     [
         "long-term dependencies",
@@ -194410,6 +194740,11 @@
         "patch-based model"
     ],
     [
+        "computational neuroscience",
+        "co_presence",
+        "neurons"
+    ],
+    [
         "Markov chain steps",
         "co_presence",
         "probability distribution"
@@ -194693,6 +195028,11 @@
         "corruption process",
         "co_presence",
         "performance measure"
+    ],
+    [
+        "vision system",
+        "co_presence",
+        "connectionism"
     ],
     [
         "classification problem",
@@ -196400,6 +196740,11 @@
         "unstructured natural language"
     ],
     [
+        "deep learning",
+        "co_presence",
+        "deep belief network"
+    ],
+    [
         "input to the second layer",
         "co_presence",
         "output of the first layer"
@@ -196533,6 +196878,11 @@
         "dataset",
         "co_presence",
         "probability"
+    ],
+    [
+        "artificial neural networks",
+        "co_presence",
+        "unsupervised learning techniques"
     ],
     [
         "central limit theorem",
@@ -199138,6 +199488,11 @@
         "intractable",
         "co_presence",
         "integral"
+    ],
+    [
+        "commercial applications",
+        "co_presence",
+        "unsupervised learning techniques"
     ],
     [
         "turbulent drag",
@@ -204510,6 +204865,11 @@
         "model capacity"
     ],
     [
+        "deep learning",
+        "co_presence",
+        "computational neuroscience"
+    ],
+    [
         "training",
         "co_presence",
         "model"
@@ -206275,6 +206635,11 @@
         "image segmentation"
     ],
     [
+        "graphical models",
+        "co_presence",
+        "back-propagation algorithm"
+    ],
+    [
         "input-to-hidden",
         "co_presence",
         "path-lengthening effect"
@@ -207663,6 +208028,11 @@
         "activation and pooling functions",
         "co_presence",
         "natural language processing"
+    ],
+    [
+        "distributed representation",
+        "co_presence",
+        "computational neuroscience"
     ],
     [
         "content-based recommender systems",
@@ -209178,6 +209548,11 @@
         "Denoising Score Matching",
         "co_presence",
         "MCMC-based methods"
+    ],
+    [
+        "deep networks",
+        "co_presence",
+        "deep neural networks"
     ],
     [
         "filter norm constraints",
@@ -211910,6 +212285,11 @@
         "Denoising Score Matching"
     ],
     [
+        "vision system",
+        "co_presence",
+        "neurons"
+    ],
+    [
         "pruned",
         "co_presence",
         "build_grad subroutine"
@@ -213468,6 +213848,11 @@
         "Regression",
         "co_presence",
         "ASCII"
+    ],
+    [
+        "artificial neural networks",
+        "co_presence",
+        "benchmark datasets"
     ],
     [
         "quasi-Newton methods",
@@ -215155,6 +215540,11 @@
         "Bengio"
     ],
     [
+        "neuroscience",
+        "co_presence",
+        "distributed representation"
+    ],
+    [
         "maxout units",
         "co_presence",
         "linear units"
@@ -216213,6 +216603,11 @@
         "random filters",
         "co_presence",
         "first layer"
+    ],
+    [
+        "commercial applications",
+        "co_presence",
+        "benchmark datasets"
     ],
     [
         "computational graphs",
@@ -220728,6 +221123,11 @@
         "mean field distribution",
         "co_presence",
         "inference network"
+    ],
+    [
+        "benchmark datasets",
+        "co_presence",
+        "commercial applications"
     ],
     [
         "computational graph language",
@@ -228265,6 +228665,11 @@
         "deterministic decoder"
     ],
     [
+        "vision system",
+        "co_presence",
+        "computational neuroscience"
+    ],
+    [
         "statistics",
         "co_presence",
         "overfitting"
@@ -231710,6 +232115,11 @@
         "sigmoidal input gate"
     ],
     [
+        "deep neural networks",
+        "co_presence",
+        "deep networks"
+    ],
+    [
         "complicated relationship",
         "co_presence",
         "generative causes"
@@ -231768,6 +232178,11 @@
         "minimum value",
         "co_presence",
         "model distribution"
+    ],
+    [
+        "unsupervised learning techniques",
+        "co_presence",
+        "benchmark datasets"
     ],
     [
         "sample from q",
@@ -238870,6 +239285,11 @@
         "access to the memory"
     ],
     [
+        "cognitive science",
+        "co_presence",
+        "neuroscience"
+    ],
+    [
         "active area of research",
         "co_presence",
         "underlying causes"
@@ -241825,6 +242245,11 @@
         "closed-form optimization"
     ],
     [
+        "computational neuroscience",
+        "co_presence",
+        "deep learning"
+    ],
+    [
         "position",
         "co_presence",
         "Laplace prior"
@@ -244063,6 +244488,11 @@
         "decomposition of the integrand",
         "co_presence",
         "nincreases"
+    ],
+    [
+        "back-propagation algorithm",
+        "co_presence",
+        "deep neural networks"
     ],
     [
         "frictionless",
@@ -248920,6 +249350,11 @@
         "parallel tempering"
     ],
     [
+        "greedy layer-wise pre-training",
+        "co_presence",
+        "supervised learning algorithms"
+    ],
+    [
         "graph language",
         "co_presence",
         "operation"
@@ -250755,6 +251190,11 @@
         "variance"
     ],
     [
+        "neural networks research",
+        "co_presence",
+        "back-propagation algorithm"
+    ],
+    [
         "risk",
         "co_presence",
         "optimization"
@@ -251728,6 +252168,11 @@
         "MNIST dataset",
         "co_presence",
         "techniques"
+    ],
+    [
+        "back-propagation algorithm",
+        "co_presence",
+        "deep networks"
     ],
     [
         "output distribution",
@@ -254078,6 +254523,11 @@
         "causal factors",
         "co_presence",
         "output"
+    ],
+    [
+        "deep belief network",
+        "co_presence",
+        "artificial neural networks"
     ],
     [
         "maximum likelihood framework",
@@ -256950,6 +257400,11 @@
         "held-out set"
     ],
     [
+        "greedy layer-wise pre-training",
+        "co_presence",
+        "deep belief network"
+    ],
+    [
         "posterior distributions",
         "co_presence",
         "maximum likelihood learning"
@@ -257840,6 +258295,11 @@
         "bridging distribution"
     ],
     [
+        "commercial applications",
+        "co_presence",
+        "supervised learning algorithms"
+    ],
+    [
         "full-rank covariance matrix",
         "co_presence",
         "Gaussian mixture model"
@@ -258695,6 +259155,11 @@
         "dataset"
     ],
     [
+        "greedy layer-wise pre-training",
+        "co_presence",
+        "deep learning"
+    ],
+    [
         "zero padding",
         "co_presence",
         "pixels"
@@ -259503,6 +259968,11 @@
         "hidden layer autoencoder",
         "co_presence",
         "autoencoders"
+    ],
+    [
+        "vision system",
+        "co_presence",
+        "deep learning"
     ],
     [
         "normal density",
@@ -262313,6 +262783,11 @@
         "sequences of letters",
         "co_presence",
         "images"
+    ],
+    [
+        "benchmark datasets",
+        "co_presence",
+        "artificial neural networks"
     ],
     [
         "Bernoulli variable",
@@ -265843,6 +266318,11 @@
         "initial learning rate",
         "co_presence",
         "Cram\u00e9r-Rao bound"
+    ],
+    [
+        "commercial applications",
+        "co_presence",
+        "deep belief network"
     ],
     [
         "independent",
@@ -272408,6 +272888,11 @@
         "deep Boltzmann machine efficient",
         "co_presence",
         "visible units"
+    ],
+    [
+        "supervised learning algorithms",
+        "co_presence",
+        "greedy layer-wise pre-training"
     ],
     [
         "individual objects",
@@ -281510,6 +281995,11 @@
         "time domain"
     ],
     [
+        "computational neuroscience",
+        "co_presence",
+        "distributed representation"
+    ],
+    [
         "exp function",
         "co_presence",
         "model parameters"
@@ -282238,6 +282728,11 @@
         "bagged ensemble",
         "co_presence",
         "sampling"
+    ],
+    [
+        "Kernel machines",
+        "co_presence",
+        "neural networks research"
     ],
     [
         "noise",
@@ -283613,6 +284108,11 @@
         "DBNs Deep Belief Networks",
         "co_presence",
         "shallow models"
+    ],
+    [
+        "neuroscience",
+        "co_presence",
+        "vision system"
     ],
     [
         "regression problem",
@@ -288995,6 +289495,11 @@
         "pooling"
     ],
     [
+        "graphical models",
+        "co_presence",
+        "neural networks research"
+    ],
+    [
         "French sentence', \n'image",
         "co_presence",
         "phrases"
@@ -293423,6 +293928,11 @@
         "geometry",
         "co_presence",
         "local generalization"
+    ],
+    [
+        "artificial neural networks",
+        "co_presence",
+        "supervised learning algorithms"
     ],
     [
         "overfitting",
@@ -299090,6 +299600,11 @@
         "model"
     ],
     [
+        "vision system",
+        "co_presence",
+        "distributed representation"
+    ],
+    [
         "regression setting",
         "co_presence",
         "random perturbation"
@@ -302960,6 +303475,11 @@
         "lower bound"
     ],
     [
+        "deep networks",
+        "co_presence",
+        "graphical models"
+    ],
+    [
         "invariant to local translation",
         "co_presence",
         "detector units"
@@ -305830,6 +306350,11 @@
         "likelihood"
     ],
     [
+        "deep learning",
+        "co_presence",
+        "vision system"
+    ],
+    [
         "neural network cost functions",
         "co_presence",
         "back-propagation algorithm"
@@ -308163,6 +308688,11 @@
         "hard targets",
         "co_presence",
         "small perturbations"
+    ],
+    [
+        "neuroscience",
+        "co_presence",
+        "cognitive science"
     ],
     [
         "decision boundary",
@@ -312078,6 +312608,11 @@
         "object detection",
         "co_presence",
         "matrix multiplication"
+    ],
+    [
+        "unsupervised learning techniques",
+        "co_presence",
+        "supervised learning algorithms"
     ],
     [
         "deeper layers",
@@ -318630,6 +319165,11 @@
         "gist"
     ],
     [
+        "deep neural networks",
+        "co_presence",
+        "graphical models"
+    ],
+    [
         "examples",
         "co_presence",
         "gradient estimate"
@@ -320288,6 +320828,11 @@
         "exponentially many regions",
         "co_presence",
         "regularizer"
+    ],
+    [
+        "unsupervised learning techniques",
+        "co_presence",
+        "deep belief network"
     ],
     [
         "transition distribution",
@@ -321993,6 +322538,11 @@
         "underfitting",
         "co_presence",
         "prior knowledge"
+    ],
+    [
+        "unsupervised learning techniques",
+        "co_presence",
+        "deep learning"
     ],
     [
         "example tangent line",
@@ -331810,6 +332360,11 @@
         "sparse coding"
     ],
     [
+        "supervised learning algorithms",
+        "co_presence",
+        "unsupervised learning techniques"
+    ],
+    [
         "hidden units",
         "co_presence",
         "FVBNs"
@@ -333578,6 +334133,11 @@
         "2-D Audio data",
         "co_presence",
         "3-D computer-rendered"
+    ],
+    [
+        "greedy layer-wise pre-training",
+        "co_presence",
+        "commercial applications"
     ],
     [
         "Frobenius norm",
@@ -336143,6 +336703,11 @@
         "spectral acoustic representations",
         "co_presence",
         "deep networks"
+    ],
+    [
+        "deep belief network",
+        "co_presence",
+        "greedy layer-wise pre-training"
     ],
     [
         "objective function",
@@ -338825,6 +339390,11 @@
         "mean squared error"
     ],
     [
+        "back-propagation algorithm",
+        "co_presence",
+        "graphical models"
+    ],
+    [
         "variance",
         "co_presence",
         "momentum"
@@ -340260,6 +340830,11 @@
         "models with latent variables"
     ],
     [
+        "artificial neural networks",
+        "co_presence",
+        "commercial applications"
+    ],
+    [
         "hidden layer activations",
         "co_presence",
         "loss"
@@ -341583,6 +342158,11 @@
         "target",
         "co_presence",
         "nearest neighbor predictors"
+    ],
+    [
+        "connectionism",
+        "co_presence",
+        "computational neuroscience"
     ],
     [
         "probability mass function",
@@ -344780,6 +345360,11 @@
         "variance"
     ],
     [
+        "benchmark datasets",
+        "co_presence",
+        "greedy layer-wise pre-training"
+    ],
+    [
         "convolutional network",
         "co_presence",
         "history of deep learning"
@@ -347540,6 +348125,11 @@
         "sparse coding"
     ],
     [
+        "distributed representation",
+        "co_presence",
+        "vision system"
+    ],
+    [
         "single hidden layer",
         "co_presence",
         "Boolean gates"
@@ -347783,6 +348373,11 @@
         "initialization",
         "co_presence",
         "cost function"
+    ],
+    [
+        "deep networks",
+        "co_presence",
+        "Kernel machines"
     ],
     [
         "saturation",
@@ -349103,6 +349698,11 @@
         "clustering methods",
         "co_presence",
         "configuration variable"
+    ],
+    [
+        "supervised learning algorithms",
+        "co_presence",
+        "benchmark datasets"
     ],
     [
         "update",
@@ -350690,6 +351290,11 @@
         "geometric mean"
     ],
     [
+        "computational neuroscience",
+        "co_presence",
+        "vision system"
+    ],
+    [
         "LGN",
         "co_presence",
         "human eye"
@@ -351178,6 +351783,11 @@
         "topological ordering",
         "co_presence",
         "representation"
+    ],
+    [
+        "Kernel machines",
+        "co_presence",
+        "deep neural networks"
     ],
     [
         "generative models",
@@ -357450,6 +358060,11 @@
         "model parameters"
     ],
     [
+        "graphical models",
+        "co_presence",
+        "deep neural networks"
+    ],
+    [
         "curvature",
         "co_presence",
         "class identities"
@@ -358113,6 +358728,11 @@
         "maximize",
         "co_presence",
         "qh v"
+    ],
+    [
+        "Kernel machines",
+        "co_presence",
+        "deep networks"
     ],
     [
         "ad auctions",
@@ -363195,6 +363815,11 @@
         "best possible model"
     ],
     [
+        "deep neural networks",
+        "co_presence",
+        "Kernel machines"
+    ],
+    [
         "optimal choice",
         "co_presence",
         "Monte Carlo Methods"
@@ -363818,6 +364443,11 @@
         "p y x",
         "co_presence",
         "approximate inference rule"
+    ],
+    [
+        "connectionism",
+        "co_presence",
+        "vision system"
     ],
     [
         "derivative",
@@ -367425,6 +368055,11 @@
         "training sentence"
     ],
     [
+        "1.1 Who Should Read This Book?",
+        "include",
+        "greedy layer-wise pre-training"
+    ],
+    [
         "11.4 Selecting Hyperparameters",
         "include",
         "preprocessing step"
@@ -369340,6 +369975,11 @@
         "samples"
     ],
     [
+        "1.1 Who Should Read This Book?",
+        "include",
+        "unsupervised learning techniques"
+    ],
+    [
         "12.5 Other Applications",
         "include",
         "regression problem"
@@ -370310,6 +370950,11 @@
         "debugging strategies"
     ],
     [
+        "1.1 Who Should Read This Book?",
+        "include",
+        "graphical models"
+    ],
+    [
         "9.10 The Neuroscientific Basis for Convolutional Networks",
         "include",
         "convolution kernel"
@@ -370418,6 +371063,11 @@
         "20.10 Directed Generative Nets",
         "include",
         "classification"
+    ],
+    [
+        "1.1 Who Should Read This Book?",
+        "include",
+        "artificial neural networks"
     ],
     [
         "8.1 How Learning Differs from Pure Optimization",
@@ -371863,6 +372513,11 @@
         "16.2 Using Graphs to Describe Model Structure",
         "include",
         "joint states"
+    ],
+    [
+        "1.1 Who Should Read This Book?",
+        "include",
+        "deep networks"
     ],
     [
         "2.1 Scalars, Vectors, Matrices and Tensors",
@@ -374485,6 +375140,11 @@
         "character-based models"
     ],
     [
+        "1.1 Who Should Read This Book?",
+        "include",
+        "deep learning"
+    ],
+    [
         "10.2 Recurrent Neural Networks",
         "include",
         "mean squared error"
@@ -374855,6 +375515,11 @@
         "Gaussian distribution"
     ],
     [
+        "1.1 Who Should Read This Book?",
+        "include",
+        "benchmark datasets"
+    ],
+    [
         "6.5 Back-Propagation and Other Differentiation Algorithms",
         "include",
         "cost function"
@@ -374888,6 +375553,11 @@
         "5.11 Challenges Motivating Deep Learning",
         "include",
         "less-developed branches"
+    ],
+    [
+        "1.1 Who Should Read This Book?",
+        "include",
+        "distributed representation"
     ],
     [
         "20.12 Generative Stochastic Networks",
@@ -376068,6 +376738,11 @@
         "20.5 Boltzmann Machines for Real-Valued Data",
         "include",
         "hidden units"
+    ],
+    [
+        "1.1 Who Should Read This Book?",
+        "include",
+        "neurons"
     ],
     [
         "10.7 The Challenge of Long-Term Dependencies",
@@ -379310,6 +379985,11 @@
         "recognition system"
     ],
     [
+        "1.1 Who Should Read This Book?",
+        "include",
+        "back-propagation algorithm"
+    ],
+    [
         "5.1 Learning Algorithms",
         "include",
         "reinforcement learning"
@@ -379958,6 +380638,11 @@
         "10.11 Optimization for Long-Term Dependencies",
         "include",
         "bias"
+    ],
+    [
+        "1.1 Who Should Read This Book?",
+        "include",
+        "vision system"
     ],
     [
         "9.5 Variants of the Basic Convolution Function",
@@ -382810,6 +383495,11 @@
         "computer vision"
     ],
     [
+        "1.1 Who Should Read This Book?",
+        "include",
+        "connectionism"
+    ],
+    [
         "15.1 Greedy Layer-Wise Unsupervised Pretraining",
         "include",
         "corpus"
@@ -384448,6 +385138,11 @@
         "15.1 Greedy Layer-Wise Unsupervised Pretraining",
         "include",
         "history"
+    ],
+    [
+        "1.1 Who Should Read This Book?",
+        "include",
+        "Kernel machines"
     ],
     [
         "4.5 Example: Linear Least Squares",
@@ -386120,6 +386815,11 @@
         "chordal graph"
     ],
     [
+        "1.1 Who Should Read This Book?",
+        "include",
+        "commercial applications"
+    ],
+    [
         "7.6 Semi-Supervised Learning",
         "include",
         "regularization"
@@ -386253,6 +386953,11 @@
         "14.6 Learning Manifolds with Autoencoders",
         "include",
         "machine learning algorithms"
+    ],
+    [
+        "1.1 Who Should Read This Book?",
+        "include",
+        "deep neural networks"
     ],
     [
         "19.4 Variational Inference and Learning",
@@ -387485,6 +388190,11 @@
         "color image"
     ],
     [
+        "1.1 Who Should Read This Book?",
+        "include",
+        "cognitive science"
+    ],
+    [
         "15.3 Semi-Supervised Disentangling of Causal Factors",
         "include",
         "latent variable"
@@ -388003,6 +388713,11 @@
         "15.5 Exponential Gains from Depth",
         "include",
         "AI tasks"
+    ],
+    [
+        "1.1 Who Should Read This Book?",
+        "include",
+        "supervised learning algorithms"
     ],
     [
         "15.1 Greedy Layer-Wise Unsupervised Pretraining",
@@ -389430,6 +390145,11 @@
         "predictions"
     ],
     [
+        "1.1 Who Should Read This Book?",
+        "include",
+        "neuroscience"
+    ],
+    [
         "12.2 Computer Vision",
         "include",
         "deep learning"
@@ -390653,6 +391373,11 @@
         "5.9 Stochastic Gradient Descent",
         "include",
         "gradient descent algorithm"
+    ],
+    [
+        "1.1 Who Should Read This Book?",
+        "include",
+        "deep belief network"
     ],
     [
         "8.3 Basic Algorithms",
@@ -393430,6 +394155,11 @@
         "Pb c"
     ],
     [
+        "1.1 Who Should Read This Book?",
+        "include",
+        "computational neuroscience"
+    ],
+    [
         "7.11 Bagging and Other Ensemble Methods",
         "include",
         "objective function"
@@ -393453,6 +394183,11 @@
         "3.7 Independence and Conditional Independence",
         "include",
         "summation"
+    ],
+    [
+        "1.1 Who Should Read This Book?",
+        "include",
+        "neural networks research"
     ],
     [
         "6.5 Back-Propagation and Other Differentiation Algorithms",
