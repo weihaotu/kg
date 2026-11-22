@@ -3,3 +3,4 @@ test*
 node_modules/
 
 .ipynb_checkpoints/
+.virtual_documents/
